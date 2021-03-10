@@ -1,1 +1,1 @@
-<h1 style=""color: blue;display: flax; justify-content: center;">PhpFiddle</h1>
+<h1 style=""color: blue;">PhpFiddle</h1>
